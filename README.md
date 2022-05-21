@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nonsocchi
 - 👀 I’m interested in mobile development.
 - 🌱 I’m currently learning [flutter](https://github.com/flutter/flutter).
-- 💞️ I’m looking to collaborate on mobile app rojects.
+- 💞️ I’m looking to collaborate on mobile app projects.
 - 📫 For collabs, send an email to nonsocchi@gmail.com
 
 <!---
