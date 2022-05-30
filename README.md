@@ -8,7 +8,7 @@ I'm currently learning to build cross-platform mobile apps with flutter.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [nonsocchi@gmail.com](mailto:nonsocchi@gmail.com)
-* 🧠  I'm learning dart, flutter, python.
+* 🧠  I'm learning dart, flutter, firebase and python (for ML).
 
 ### Skills
 
