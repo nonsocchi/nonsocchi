@@ -4,6 +4,8 @@ Hi 👋 My name is Unimke Adie
 Mobile Developer
 ----------------
 
+[![wakatime](https://wakatime.com/badge/user/f20b6406-1cd5-44dd-823f-dbe188f9d676.svg)](https://wakatime.com/@f20b6406-1cd5-44dd-823f-dbe188f9d676)
+
 I'm currently learning to build cross-platform mobile apps with flutter.
 
 * 🌍  I'm based in Nigeria
